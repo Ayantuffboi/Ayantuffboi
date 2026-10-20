@@ -1,4 +1,4 @@
-## Hello I'm Nano Hydroxyapatite and I like to play doors and I like to make random stuff
+# Hello I'm Nano Hydroxyapatite and I like to play doors and I like to make random stuff
 EX: a soccer game with multiplayer and local co-op
 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='tiktok' src='https://img.shields.io/badge/@Nanohydroxyapitite-100000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=1AA02A&color=AD0D0D'/></a>
@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="352" height="352" alt="mama" src="https://github.com/user-attachments/assets/da1a14b6-7a6c-410e-b040-aadae71a8566" />
+#
