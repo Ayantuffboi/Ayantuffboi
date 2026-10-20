@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img width="352" height="352" alt="mama" src="https://github.com/user-attachments/assets/da1a14b6-7a6c-410e-b040-aadae71a8566" />
+<img width="236" height="242" alt="ok" src="https://github.com/user-attachments/assets/5bc16d3f-f78e-4cc8-a19c-e61cc6a27a17" />
+<img width="509" height="496" alt="screech" src="https://github.com/user-attachments/assets/9b07ac64-887f-4d90-9584-b866a3e122ad" />
+
 
