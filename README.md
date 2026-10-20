@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello I'm Nano Hydroxyapatite and I like to make stuff that I feel like
+EX: a soccer game with multiplayer and local co-op
+<img alt="Static Badge" src="https://img.shields.io/badge/aura">
+
 
 <!--
 **Ayantuffboi/Ayantuffboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
