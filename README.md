@@ -1,7 +1,8 @@
-## Hello I'm Nano Hydroxyapatite and I like to make stuff that I feel like
+## Hello I'm Nano Hydroxyapatite and I like to play doors and I like to make random stuff
 EX: a soccer game with multiplayer and local co-op
-<img alt="Static Badge" src="https://img.shields.io/badge/aura">
-
+https://img.shields.io/badge/Nanohydroxyapatite-Game_Dev-orange
+https://img.shields.io/badge/Games_Work-usually-blue
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='tiktok' src='https://img.shields.io/badge/Nanohydroxyapitite-100000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=1AA02A&color=AD0D0D'/></a>
 
 <!--
 **Ayantuffboi/Ayantuffboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
