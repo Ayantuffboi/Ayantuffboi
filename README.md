@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 -->
 <img width="236" height="242" alt="ok" src="https://github.com/user-attachments/assets/5bc16d3f-f78e-4cc8-a19c-e61cc6a27a17" />
 <img width="509" height="496" alt="screech" src="https://github.com/user-attachments/assets/9b07ac64-887f-4d90-9584-b866a3e122ad" />
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://github.com/ayantuffboi/" data-iframely-url="//iframely.net/UdOew0if?theme=dark"></a></div></div><script async src="//iframely.net/embed.js"></script>
 
 
