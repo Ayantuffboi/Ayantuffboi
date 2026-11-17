@@ -20,4 +20,10 @@ Here are some ideas to get you started:
 <img width="236" height="242" alt="ok" src="https://github.com/user-attachments/assets/5bc16d3f-f78e-4cc8-a19c-e61cc6a27a17" />
 <img width="509" height="496" alt="screech" src="https://github.com/user-attachments/assets/9b07ac64-887f-4d90-9584-b866a3e122ad" />
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayantuffboi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayantuffboi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
